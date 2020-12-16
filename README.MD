@@ -1,2 +1,0 @@
-# notariuskiev.github.io
-site
