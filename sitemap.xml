@@ -1,14 +1,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://notariuskiev.github.io/Contacts.html</loc>
+	</url>
+	<url>
 		<loc>https://notariuskiev.github.io/index.html</loc>
+	</url>
+	<url>
+		<loc>https://notariuskiev.github.io/Contacts-Ru.html</loc>
 	</url>
 	<url>
 		<loc>https://notariuskiev.github.io/services.html</loc>
 	</url>
 	<url>
-		<loc>https://notariuskiev.github.io/yuridichni-konsultacii-v-kievi.html</loc>
+		<loc>https://notariuskiev.github.io/services-ru.html</loc>
 	</url>
 	<url>
-		<loc>https://notariuskiev.github.io/Contacts.html</loc>
+		<loc>https://notariuskiev.github.io/404-ua.html</loc>
 	</url>
 </urlset>
