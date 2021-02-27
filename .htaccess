@@ -1,4 +1,4 @@
-RewriteRule ^(?!articles/).+/([^/]+\.html)$ /$1 [R=301,L]
+Redirect 301 /articles/contacts /contacts
 RewriteEngine On
 RewriteCond %{REQUEST_URI} ! \.html$
 RewriteCond %{REQUEST_URI} ! /$
