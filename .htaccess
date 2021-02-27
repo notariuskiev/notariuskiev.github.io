@@ -1,1 +1,1 @@
-Redirect  301  /Contacts.html  /yuridichni-konsultacii-v-kievi.html
+ErrorDocument 404 /404-ua.html
