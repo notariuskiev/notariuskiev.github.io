@@ -1,4 +1,4 @@
-Redirect 301 /articles/Contacts https://github.com/notariuskiev/Contacts
+Redirect /Contacts.html /Contacts-ru.html
 RewriteEngine On
 RewriteCond %{REQUEST_URI} ! \.html$
 RewriteCond %{REQUEST_URI} ! /$
