@@ -2,4 +2,4 @@ RewriteEngine On
 RewriteCond %{REQUEST_URI} ! \.html$
 RewriteCond %{REQUEST_URI} ! /$
 RewriteRule ^(.*)$ $1.html
-RedirectMatch  301   ^/articles$   /
+
