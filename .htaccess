@@ -1,5 +1,6 @@
 RewriteEngine On
+RewriteRule ^(?!articles/).+/([^/]+\.html)$ /$1 [R=301,L]
 RewriteCond %{REQUEST_URI} ! \.html$
 RewriteCond %{REQUEST_URI} ! /$
 RewriteRule ^(.*)$ $1.html
-RewriteRule ^(?!articles/).+/([^/]+\.html)$ /$1 [R=301,L]
+
