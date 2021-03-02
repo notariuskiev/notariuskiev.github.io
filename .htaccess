@@ -1,2 +1,2 @@
 RewriteEngine On
-Redirect 301 /articles/konsultatsiya-notariusa-v-kyyevi-kiev https://notariuskiev.github.io/konsultatsiya-notariusa-v-kyyevi-kiev.html [R=301,L]
+Redirect 301 /articles/konsultatsiya-notariusa-v-kyyevi-kiev https://notariuskiev.github.io/konsultatsiya-notariusa-v-kyyevi-kiev.html
