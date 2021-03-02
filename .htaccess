@@ -1,1 +1,2 @@
-RewriteRule ^articles/konsultatsiya\-notariusa\-v\-kyyevi\-kiev$ /konsultatsiya\-notariusa\-v\-kyyevi\-kiev.html? [L,R=301]
+RewriteEngine On
+RewriteRule ^(.*)/articles/konsultatsiya-notariusa-v-kyyevi-kiev$ https://notariuskiev.github.io/konsultatsiya-notariusa-v-kyyevi-kiev.html [R=301,L]
