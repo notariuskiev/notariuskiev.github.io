@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://notariuskiev.github.io/Contacts.html</loc>
-	</url>
-	<url>
 		<loc>https://notariuskiev.github.io/index.html</loc>
 	</url>
 	<url>
@@ -52,5 +49,8 @@
 	</url>
 	<url>
 		<loc>https://notariuskiev.github.io/dovirebist-na-rozporyadgennya-rahunkom-v-banku.html</loc>
+	</url>
+	<url>
+		<loc>https://notariuskiev.github.io/contacts.html</loc>
 	</url>
 </urlset>
